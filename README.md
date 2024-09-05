@@ -34,7 +34,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For more information or reservations, please contact us at:
-- **Phone**: +351 123 456 789
-- **Email**: holidays@algarve.com
+- **Phone**: +352621502317
+- **Email**: domingosmartins.lu@gmail.com
 
 Thank you for visiting our website!
